@@ -4,10 +4,10 @@
 #### Email: deshpn2@rpi.edu 
 #### Github account: neha-deshpande001
 #### Discord handle: neha#7082
-<img src="neha.jpg" alt="neha" height="200"/>
+<img src="images/neha.jpg" alt="neha" height="200"/>
 
 ## Part 1
-<img src="message.jpg" alt="message" height="50"/>
+<img src="images/message.jpg" alt="message" height="50"/>
 
 ## Part 2
 ### 2.3
@@ -19,20 +19,27 @@ It is undoubtedly unfair that Jesse Jordan, a student who spent his free time ex
 
 ## Part 3
 ### 3.3
-<img src="tree.jpg" alt="tree" height="200"/>
+<img src="images/tree.jpg" alt="tree" height="200"/>
 
 ## Part 4
 ### 4.1
-:(
+<img src="images/e1.jpg" alt="e1" height="100"/>
+<img src="images/e2.jpg" alt="e1" height="100"/>
+<img src="images/e3.jpg" alt="e1" height="100"/>
+<img src="images/e4.jpg" alt="e1" height="100"/>
+<img src="images/e5.jpg" alt="e1" height="100"/>
+<img src="images/e6.jpg" alt="e1" height="100"/>
+<img src="images/e7.jpg" alt="e1" height="100"/>
+
 
 ### 4.2
-<img src="cross1.jpg" alt="cross1" height="200"/>
-<img src="cross2.jpg" alt="cross2" height="200"/>
-<img src="cross3.jpg" alt="cross3" height="200"/>
-<img src="cross5.jpg" alt="cross5" height="200"/>
+<img src="images/cross1.jpg" alt="cross1" height="200"/>
+<img src="images/cross2.jpg" alt="cross2" height="200"/>
+<img src="images/cross3.jpg" alt="cross3" height="200"/>
+<img src="images/cross5.jpg" alt="cross5" height="200"/>
 
 ## Part 5
-<img src="maze.jpg" alt="maze" height="200"/>
+<img src="images/maze.jpg" alt="maze" height="200"/>
 
 ## Part 6
 From the link provided, I saw that one of the possible open source projects was Firefox. This is interesting to me because I've used it a lot in the past and am very familiar with it. Since it is open source, it would be interesting to take a look at the code base and understand what is going on.
