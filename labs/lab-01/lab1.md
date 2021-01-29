@@ -4,4 +4,4 @@
 ### Email: deshpn2@rpi.edu 
 ### Github account: neha-deshpande001
 ### Discord handle: neha#7082
-Photo: ![Neha](/neha.jpg)
+Photo: <img src="neha.jpg" alt="neha" width="200"/>
