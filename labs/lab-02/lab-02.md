@@ -4,6 +4,8 @@ git log screenshot:
 
 <img src="gitlog.jpg" alt="gitlog" height="100"/>
 
+Unfortunately, I couldn't get gitk to work on my machine. I tried :(
+
 Link to fork of spoon knife: https://github.com/neha-deshpande001/Spoon-Knife
 
 learn git branching screenshot:
